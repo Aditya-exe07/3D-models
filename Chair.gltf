@@ -1,1 +1,713 @@
-{"accessors" : [{"bufferView" : 0, "byteOffset" : 0, "componentType" : 5123, "count" : 2748, "type" : "SCALAR", "max" : [2747], "min" : [0]}, {"bufferView" : 1, "byteOffset" : 0, "componentType" : 5126, "count" : 2748, "type" : "VEC3", "max" : [53.10009765625, 89.21343994140625, 144.65728759765625], "min" : [-86.14249420166016, -29.798738479614258, -123.42657470703125], "name" : "POSITION"}, {"bufferView" : 1, "byteOffset" : 12, "componentType" : 5126, "count" : 2748, "type" : "VEC3", "max" : [1.0000044107437134, 1.0000044107437134, 1.0000044107437134], "min" : [-1.0000044107437134, -1.0000044107437134, -1.0000044107437134], "name" : "NORMAL"}, {"bufferView" : 1, "byteOffset" : 24, "componentType" : 5126, "count" : 2748, "type" : "VEC2", "max" : [0.9966292381286621, 0.8975023031234741], "min" : [0.05022156238555908, 0.04132342338562012], "name" : "TEXCOORD_0"}, {"bufferView" : 0, "byteOffset" : 5496, "componentType" : 5123, "count" : 888, "type" : "SCALAR", "max" : [887], "min" : [0]}, {"bufferView" : 2, "byteOffset" : 0, "componentType" : 5126, "count" : 888, "type" : "VEC3", "max" : [8.390449523925781, 4.074194431304932, 10.889420509338379], "min" : [-105.53365325927734, -2.0141429901123047, -107.93994140625], "name" : "POSITION"}, {"bufferView" : 2, "byteOffset" : 12, "componentType" : 5126, "count" : 888, "type" : "VEC3", "max" : [0.9974885582923889, 1.0000044107437134, 1.0000044107437134], "min" : [-1.0000044107437134, -1.0000044107437134, -1.0000044107437134], "name" : "NORMAL"}, {"bufferView" : 2, "byteOffset" : 24, "componentType" : 5126, "count" : 888, "type" : "VEC2", "max" : [0.5650076866149902, 0.7904473543167114], "min" : [0.07918894290924072, 0.05402272939682007], "name" : "TEXCOORD_0"}, {"bufferView" : 0, "byteOffset" : 7272, "componentType" : 5123, "count" : 126, "type" : "SCALAR", "max" : [125], "min" : [0]}, {"bufferView" : 3, "byteOffset" : 0, "componentType" : 5126, "count" : 126, "type" : "VEC3", "max" : [3424.55810546875, 4671.65283203125, 3997.271484375], "min" : [-3424.55810546875, -4671.65283203125, 0], "name" : "POSITION"}, {"bufferView" : 3, "byteOffset" : 12, "componentType" : 5126, "count" : 126, "type" : "VEC3", "max" : [1.0000044107437134, 0, 1.0000044107437134], "min" : [0, -1.0000044107437134, 0], "name" : "NORMAL"}, {"bufferView" : 3, "byteOffset" : 24, "componentType" : 5126, "count" : 126, "type" : "VEC2", "max" : [1, 1.0407687425613403], "min" : [0, 0], "name" : "TEXCOORD_0"}, {"bufferView" : 4, "byteOffset" : 0, "componentType" : 5126, "normalized" : false, "count" : 1, "type" : "SCALAR", "max" : [0], "min" : [0]}, {"bufferView" : 4, "byteOffset" : 4, "componentType" : 5126, "normalized" : false, "count" : 1, "type" : "VEC3", "max" : [-745.1661987304688, 123.45765686035156, -26.882038116455078], "min" : [-745.1661987304688, 123.45765686035156, -26.882038116455078]}, {"bufferView" : 5, "byteOffset" : 0, "componentType" : 5126, "normalized" : false, "count" : 1, "type" : "SCALAR", "max" : [0], "min" : [0]}, {"bufferView" : 5, "byteOffset" : 4, "componentType" : 5126, "normalized" : false, "count" : 1, "type" : "VEC3", "max" : [1, 1, 1], "min" : [1, 1, 1]}], "animations" : [{"channels" : [{"sampler" : 0, "target" : {"node" : 0, "path" : "translation"}}, {"sampler" : 1, "target" : {"node" : 0, "path" : "scale"}}], "samplers" : [{"input" : 12, "interpolation" : "CUBICSPLINE", "output" : 13}, {"input" : 14, "interpolation" : "CUBICSPLINE", "output" : 15}], "name" : "Take 001"}], "asset" : {"generator" : "Aspose.3D 24.6.0", "version" : "2.0"}, "buffers" : [{"uri" : "buffer.bin", "byteLength" : 127964}], "bufferViews" : [{"buffer" : 0, "byteOffset" : 0, "byteLength" : 7524, "target" : 34963}, {"buffer" : 0, "byteOffset" : 7528, "byteLength" : 87936, "byteStride" : 32, "target" : 34962}, {"buffer" : 0, "byteOffset" : 95468, "byteLength" : 28416, "byteStride" : 32, "target" : 34962}, {"buffer" : 0, "byteOffset" : 123888, "byteLength" : 4032, "byteStride" : 32, "target" : 34962}, {"buffer" : 0, "byteOffset" : 127924, "byteLength" : 16}, {"buffer" : 0, "byteOffset" : 127944, "byteLength" : 16}], "materials" : [{"name" : "Material #0", "pbrMetallicRoughness" : {"baseColorFactor" : [0.5, 0.5, 0.5, 1], "metallicFactor" : 0, "roughnessFactor" : 0}, "emissiveFactor" : [0, 0, 0], "alphaMode" : "OPAQUE", "doubleSided" : false}, {"name" : "Material #2", "pbrMetallicRoughness" : {"baseColorFactor" : [0.5, 0.5, 0.5, 1], "metallicFactor" : 0, "roughnessFactor" : 0.6460000276565552}, "emissiveFactor" : [0, 0, 0], "alphaMode" : "OPAQUE", "doubleSided" : false}, {"name" : "Material #1", "pbrMetallicRoughness" : {"baseColorFactor" : [1, 1, 1, 1], "metallicFactor" : 0, "roughnessFactor" : 0}, "emissiveFactor" : [0, 0, 0], "alphaMode" : "OPAQUE", "doubleSided" : false}], "meshes" : [{"primitives" : [{"attributes" : {"POSITION" : 1, "NORMAL" : 2, "TEXCOORD_0" : 3}, "indices" : 0, "material" : 0, "mode" : 4}], "name" : ""}, {"primitives" : [{"attributes" : {"POSITION" : 5, "NORMAL" : 6, "TEXCOORD_0" : 7}, "indices" : 4, "material" : 1, "mode" : 4}], "name" : ""}, {"primitives" : [{"attributes" : {"POSITION" : 9, "NORMAL" : 10, "TEXCOORD_0" : 11}, "indices" : 8, "material" : 2, "mode" : 4}], "name" : ""}], "nodes" : [{"mesh" : 0, "rotation" : [-0.7071067811865475, -0, -0, 0.7071067811865476], "scale" : [1, 1, 1], "translation" : [-745.1661987304688, 123.45765686035156, -26.882038116455078], "name" : "Legs"}, {"matrix" : [1, 0, 0, 0, 0, 0.9999999999999867, 1.629206849429458E-07, 0, 0, -1.629206849429458E-07, 0.9999999999999867, 0, -696.594596862793, 122.42762747788029, -8.064117599453471, 1], "mesh" : 1, "name" : "Cover"}, {"matrix" : [1, 0, 0, 0, 0, 6.123233995736766E-17, -1, 0, 0, 1, 6.123233995736766E-17, 0, -1057.0758056640625, 0, -1997.61767578125, 1], "mesh" : 2, "name" : "Studio"}], "scene" : 0, "scenes" : [{"nodes" : [0, 1, 2]}]}
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "Open Asset Import Library (assimp v5.4.0)"
+    },
+    "extensionsUsed": [
+        "KHR_materials_specular",
+        "KHR_materials_volume",
+        "FB_ngon_encoding"
+    ],
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 1232,
+            "type": "VEC3",
+            "max": [
+                53.10009765625,
+                89.21343994140625,
+                144.65728759765625
+            ],
+            "min": [
+                -86.14249420166016,
+                -29.798738479614258,
+                -123.42657470703125
+            ]
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 1232,
+            "type": "VEC3",
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -1.0
+            ]
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 1232,
+            "type": "VEC2",
+            "max": [
+                0.9966292381286621,
+                0.8975023031234741
+            ],
+            "min": [
+                0.05022156238555908,
+                0.04132342338562012
+            ]
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 2748,
+            "type": "SCALAR",
+            "max": [
+                1231
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 228,
+            "type": "VEC3",
+            "max": [
+                8.390449523925781,
+                4.074194431304932,
+                10.889420509338379
+            ],
+            "min": [
+                -105.53365325927734,
+                -2.0141429901123047,
+                -107.93994140625
+            ]
+        },
+        {
+            "bufferView": 5,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 228,
+            "type": "VEC3",
+            "max": [
+                0.9974842667579651,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -1.0
+            ]
+        },
+        {
+            "bufferView": 6,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 228,
+            "type": "VEC2",
+            "max": [
+                0.5650076866149902,
+                0.7904473543167114
+            ],
+            "min": [
+                0.07918894290924072,
+                0.05402272939682007
+            ]
+        },
+        {
+            "bufferView": 7,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 888,
+            "type": "SCALAR",
+            "max": [
+                227
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 8,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 48,
+            "type": "VEC3",
+            "max": [
+                3424.55810546875,
+                4671.65283203125,
+                3997.271484375
+            ],
+            "min": [
+                -3424.55810546875,
+                -4671.65283203125,
+                0.0
+            ]
+        },
+        {
+            "bufferView": 9,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 48,
+            "type": "VEC3",
+            "max": [
+                1.0,
+                0.0,
+                1.0
+            ],
+            "min": [
+                0.0,
+                -1.0,
+                0.0
+            ]
+        },
+        {
+            "bufferView": 10,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 48,
+            "type": "VEC2",
+            "max": [
+                1.0,
+                1.0407687425613403
+            ],
+            "min": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "bufferView": 11,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 126,
+            "type": "SCALAR",
+            "max": [
+                47
+            ],
+            "min": [
+                0
+            ]
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 63304,
+            "uri": "Chair.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 14784,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 14784,
+            "byteLength": 14784,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 29568,
+            "byteLength": 9856,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 39424,
+            "byteLength": 10992,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 50416,
+            "byteLength": 2736,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 53152,
+            "byteLength": 2736,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 55888,
+            "byteLength": 1824,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 57712,
+            "byteLength": 3552,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 61264,
+            "byteLength": 576,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 61840,
+            "byteLength": 576,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 62416,
+            "byteLength": 384,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 62800,
+            "byteLength": 504,
+            "target": 34963
+        }
+    ],
+    "images": [
+        {
+            "uri": "Textures\\Chair-1.jpg"
+        },
+        {
+            "uri": "Textures\\Chair-2.jpg"
+        }
+    ],
+    "materials": [
+        {
+            "name": "Material #0",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "baseColorFactor": [
+                    0.5,
+                    0.5,
+                    0.5,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": -2.200000047683716
+            },
+            "extensions": {
+                "KHR_materials_specular": {
+                    "specularFactor": 1.0
+                }
+            }
+        },
+        {
+            "name": "Material #2",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 1
+                },
+                "baseColorFactor": [
+                    0.5,
+                    0.5,
+                    0.5,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.6589460968971252
+            },
+            "extensions": {
+                "KHR_materials_specular": {
+                    "specularFactor": 1.0
+                }
+            }
+        },
+        {
+            "name": "Material #1",
+            "pbrMetallicRoughness": {
+                "metallicFactor": 0.0,
+                "roughnessFactor": -2.200000047683716
+            },
+            "extensions": {
+                "KHR_materials_specular": {
+                    "specularFactor": 1.0
+                }
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Legs",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 0,
+                    "indices": 3,
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Cover",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 1,
+                    "indices": 7,
+                    "attributes": {
+                        "POSITION": 4,
+                        "NORMAL": 5,
+                        "TEXCOORD_0": 6
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Studio",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 2,
+                    "indices": 11,
+                    "attributes": {
+                        "POSITION": 8,
+                        "NORMAL": 9,
+                        "TEXCOORD_0": 10
+                    }
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "children": [
+                1,
+                4,
+                9,
+                12
+            ]
+        },
+        {
+            "name": "Legs_$AssimpFbx$_Translation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -745.1661987304688,
+                123.45765686035156,
+                -26.882038116455078,
+                1.0
+            ],
+            "children": [
+                2
+            ]
+        },
+        {
+            "name": "Legs_$AssimpFbx$_PreRotation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                -4.371138828673793e-8,
+                -1.0,
+                0.0,
+                0.0,
+                1.0,
+                -4.371138828673793e-8,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "children": [
+                3
+            ]
+        },
+        {
+            "name": "Legs",
+            "mesh": 0,
+            "extras": {
+                "UserProperties": "",
+                "IsNull": false,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "MaxHandle": 12,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "Cover_$AssimpFbx$_Translation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -745.1661987304688,
+                123.45765686035156,
+                -26.882038116455078,
+                1.0
+            ],
+            "children": [
+                5
+            ]
+        },
+        {
+            "name": "Cover_$AssimpFbx$_PreRotation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                -4.371138828673793e-8,
+                -1.0,
+                0.0,
+                0.0,
+                1.0,
+                -4.371138828673793e-8,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "children": [
+                6
+            ]
+        },
+        {
+            "name": "Cover_$AssimpFbx$_Rotation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                -1.6292068494294654e-7,
+                1.0,
+                0.0,
+                0.0,
+                -1.0,
+                -1.6292068494294654e-7,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "children": [
+                7
+            ]
+        },
+        {
+            "name": "Cover_$AssimpFbx$_GeometricTranslation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                48.57160186767578,
+                -1.0300263166427612,
+                18.817920684814453,
+                1.0
+            ],
+            "children": [
+                8
+            ]
+        },
+        {
+            "name": "Cover",
+            "mesh": 1,
+            "extras": {
+                "UserProperties": "",
+                "IsNull": false,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "MaxHandle": 39,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "ArnoldLight001_$AssimpFbx$_Translation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -754.2552490234375,
+                687.9549560546875,
+                -78.517822265625,
+                1.0
+            ],
+            "children": [
+                10
+            ]
+        },
+        {
+            "name": "ArnoldLight001_$AssimpFbx$_PreRotation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                -4.371138828673793e-8,
+                -1.0,
+                0.0,
+                0.0,
+                1.0,
+                -4.371138828673793e-8,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "children": [
+                11
+            ]
+        },
+        {
+            "name": "ArnoldLight001",
+            "extras": {
+                "UserProperties": "",
+                "IsNull": false,
+                "InheritType": 1,
+                "MaxHandle": 41,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        },
+        {
+            "name": "Studio_$AssimpFbx$_Translation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -1057.0758056640625,
+                0.0,
+                -1997.61767578125,
+                1.0
+            ],
+            "children": [
+                13
+            ]
+        },
+        {
+            "name": "Studio_$AssimpFbx$_PreRotation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                -4.371138828673793e-8,
+                -1.0,
+                0.0,
+                0.0,
+                1.0,
+                -4.371138828673793e-8,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "children": [
+                14
+            ]
+        },
+        {
+            "name": "Studio",
+            "mesh": 2,
+            "extras": {
+                "UserProperties": "",
+                "IsNull": false,
+                "DefaultAttributeIndex": 0,
+                "InheritType": 1,
+                "MaxHandle": 42,
+                "RotationActive": true,
+                "ScalingMax": null
+            }
+        }
+    ],
+    "samplers": [
+        {},
+        {}
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "textures": [
+        {
+            "source": 0,
+            "sampler": 0
+        },
+        {
+            "source": 1,
+            "sampler": 1
+        }
+    ],
+    "scene": 0
+}
